@@ -1,4 +1,6 @@
-## Hi there 👋
+## Title: João Victor Serra Silva
+
+## Subtitle: Electrical Engineering Student @ UFMA | Software Developer | AI & Embedded Systems****
 
 # 💫 About Me:
 💼 Currently working on: Pesquisa de Iniciação Científica e Projetos na Insight Empresa Júnior.<br><br>⚙️ Focus areas: Sistemas de Controle, Machine Learning e Desenvolvimento de Hardware.<br><br>🛠️ Technical Skills: MATLAB, Python, C/C++, PCB Design e Automação.<br><br>🖥️ Ecosystem: Desenvolvimento em ambiente Linux e sistemas embarcados (ESP32/Arduino).<br><br>🎬 Interest: Cinema clássico e entusiasta de tecnologia.
