@@ -45,22 +45,9 @@
 ---
 
 ## 📊 GitHub Stats:
-
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=serra-joaovictor&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=serra-joaovictor&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=serra-joaovictor&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=serra-joaovictor&icon=0&color=0)](https://visitcount.itsvg.in)
-
-### 📈 Contribution Streak
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=serra-joaovictor&theme=shadow_green&hide_border=false)
-
-### 🔝 Top Contributed Repository
-![Top Repo](https://github-contributor-stats.vercel.app/api?username=serra-joaovictor&limit=1&theme=dark)
-
----
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=serra-joaovictor&icon=6&color=3&v=1" alt="Profile Views" />
-</p>
