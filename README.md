@@ -46,9 +46,11 @@
 
 ## 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=serra-joaovictor&theme=shadow_green&show_icons=true)
-<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serra-joaovictor&theme=shadow_green&layout=compact)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=serra-joaovictor&theme=shadow_green&show_icons=true&v=1&cache_seconds=86400" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serra-joaovictor&theme=shadow_green&layout=compact&v=1&cache_seconds=86400" alt="Top Langs" />
+</p>
 
 ### 📈 Contribution Streak
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=serra-joaovictor&theme=shadow_green&hide_border=false)
@@ -58,5 +60,5 @@
 
 ---
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=serra-joaovictor&icon=6&color=3" alt="Profile Views" />
+  <img src="https://visitcount.itsvg.in/api?id=serra-joaovictor&icon=6&color=3&v=1" alt="Profile Views" />
 </p>
