@@ -1,5 +1,3 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00599C&height=250&section=header&text=João%20Victor&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Electrical%20Engineering%20|%20AI%20%26%20Embedded%20Systems&descSize=20&descColor=ffffff&descAlignY=60)
-
 # Hi there! I'm João Victor Serra Silva 👋
 
 ---
