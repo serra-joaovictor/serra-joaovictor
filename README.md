@@ -46,24 +46,17 @@
 
 ## 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=serra-joaovictor&theme=shadow_green&show_icons=true&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serra-joaovictor&theme=shadow_green&layout=compact&langs_count=6)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=serra-joaovictor&theme=shadow_green&show_icons=true)
+<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serra-joaovictor&theme=shadow_green&layout=compact)
 
 ### 📈 Contribution Streak
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=serra-joaovictor&theme=shadow_green&hide_border=false)
 
 ### 🔝 Top Contributed Repository
-![Top Repo](https://github-contributor-stats.vercel.app/api?username=serra-joaovictor&limit=1&theme=dark&combine_all_yearly_contributions=true)
-
-### 📈 Contribution Streak
-![](https://nirzak-streak-stats.vercel.app/?user=serra-joaovictor&theme=shadow_green&hide_border=false)
-
-### 🔝 Top Contributed Repository
-![](https://github-contributor-stats.vercel.app/api?username=serra-joaovictor&limit=1&theme=dark&combine_all_yearly_contributions=true)
+![Top Repo](https://github-contributor-stats.vercel.app/api?username=serra-joaovictor&limit=1&theme=dark)
 
 ---
-
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=serra-joaovictor&icon=6&color=3" />
+  <img src="https://visitcount.itsvg.in/api?id=serra-joaovictor&icon=6&color=3" alt="Profile Views" />
 </p>
